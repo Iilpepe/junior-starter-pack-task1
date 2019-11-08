@@ -1,0 +1,7 @@
+drwxr-xr-x 3 root root 4096 paź 31 16:12 app
+drwxr-xr-x 2 root root 4096 paź 31 15:44 lib
+drwxr-xr-x 2 root root 4096 paź 31 15:44 log
+-rw-r--r-- 1 root root   73 paź 31 15:44 README.md
+drwxr-xr-x 2 root root 4096 paź 31 15:44 spec
+drwxr-xr-x 2 root root 4096 lis  8 21:45 vendor
+

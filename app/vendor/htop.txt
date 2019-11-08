@@ -1,0 +1,4 @@
+lxterminal 1.4%
+
+htop 2.1.0 - (C) 2004-2018 Hisham Muhammad
+Released under the GNU GPL.
